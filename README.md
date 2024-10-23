@@ -49,6 +49,8 @@ In this project, significant modifications were made to enhance the model:
 - **Size Attribute**: An additional attribute (size) was introduced, allowing users to focus on different characteristics when analyzing segregation.
 - **User Interface Enhancements**: A Chooser was added to allow users to select whether to focus on color or size, and sliders to adjust agent density and wall density dynamically.
 
+![Flowchart of the model](Blank_diagram.png)
+
 ## Simulations and Results
 The simulation results indicate that the presence of walls impacts agent movement and segregation patterns. Key observations include:
 
